@@ -1,2 +1,5 @@
 # hello-world
-learning repository
+
+Hey there.
+
+Chou here, just stopping by to learn github.
